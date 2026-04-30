@@ -1,50 +1,35 @@
-# Welcome to your Expo app 👋
+# 🌟 SkinScan Mask
+**Intelligente Hautanalyse & personalisierte Pflege für Zuhause**
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+SkinScan Mask ist eine innovative Gesundheits- und Lifestyle-App, die als Schnittstelle zwischen einer intelligenten Gesichtsmaske und dem mobilen Endgerät fungiert. Dieses Projekt bringt professionelle dermatologische Analysen direkt ins eigene Badezimmer – komplett lokal und datenschutzfreundlich.
 
-## Get started
+*Offizielle Project Edition 2026 – BBS Peine*
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 📱 Kernfunktionen
 
-2. Start the app
+* **Intelligenter 6-Punkt-Scanner:** Analysiert in Echtzeit Feuchtigkeit, Öl-Balance, Porenzustand, Hautelastizität sowie Rötungen und Unreinheiten.
+* **Dynamischer Pflege-Finder:** Ein smarter Algorithmus empfiehlt zielgerichtet kosmetische Wirkstoffe (z. B. Hyaluronsäure, Niacinamide) basierend auf den aktuellen Scan-Werten.
+* **Personalisiertes Haut-Tagebuch:** Lückenlose Dokumentation der Fortschritte mit Health-Score und detaillierten Zonen-Analysen (z.B. T-Zone).
+* **BBS Peine Specials:** Integriertes Schulhof-Widget mit UV-Index-Warner für die große Pause.
+* **Privacy First:** Vollständige Offline-Funktionalität ("Local-First") zum Schutz sensibler Gesundheitsdaten ohne externes Backend.
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 🛠 Technologie & Design
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Dieses Projekt wurde mit einem Fokus auf Performance und plattformübergreifende Nutzbarkeit entwickelt:
+* **Framework:** React Native & Expo (SDK 54)
+* **Plattformen:** iOS, Android & Web
+* **Design-System:** Modernes Glassmorphism-UI in den Primärfarben Gold und Mint
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 👨‍💻 Entwickler-Team
 
-When you're ready, run:
+Konzipiert und programmiert von:
+* **Cansin Can Kurt**
+* **Rabia Kurt**
 
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+*Entwickelt an der BBS Peine*

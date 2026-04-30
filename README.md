@@ -1,4 +1,12 @@
 # 🌟 SkinScan Mask
+
+> 🚨 **APP SOFORT LIVE TESTEN (OHNE INSTALLATION)** 🚨
+> 👉 **[KLICKE HIER, UM DIE WEB-APP ZU ÖFFNEN](https://skinscan-mask-peinebbs.vercel.app)** 👈
+> *(Einfach auf den Text klicken. Die App öffnet sich sofort und funktioniert auf jedem Handy oder PC direkt im Browser!)*
+
+---
+
+# 🌟 SkinScan Mask
 **Intelligente Hautanalyse & personalisierte Pflege für Zuhause**
 
 SkinScan Mask ist eine innovative Gesundheits- und Lifestyle-App, die als Schnittstelle zwischen einer intelligenten Gesichtsmaske und dem mobilen Endgerät fungiert. Dieses Projekt bringt professionelle dermatologische Analysen direkt ins eigene Badezimmer – komplett lokal und datenschutzfreundlich.

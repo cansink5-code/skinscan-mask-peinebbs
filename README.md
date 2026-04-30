@@ -1,19 +1,26 @@
-# 🌟 SkinScan Mask
-
-### 🚨 WIE KANN ICH DIE APP TESTEN? (Bitte hier lesen) 🚨
+### 🚨 WIE KANN ICH DIE APP TESTEN? 🚨
 
 > 🌐 **MÖGLICHKEIT 1: SOFORT IM BROWSER TESTEN (EMPFOHLEN!)**
 > 👉 **[KLICKE HIER, UM DIE WEB-APP ZU ÖFFNEN](https://skinscan-mask-peinebbs.vercel.app)** 👈
-> *(Einfach anklicken! Keine Installation nötig. Funktioniert auf jedem Handy, PC oder Tablet direkt im Browser.)*
+> *(Keine Installation nötig. Funktioniert auf jedem Handy, PC oder Tablet direkt im Browser.)*
 
 > 🤖 **MÖGLICHKEIT 2: FÜR ANDROID-HANDYS (APP INSTALLIEREN)**
-> Du willst die richtige App auf deinem Android-Handy haben?
 > 👉 **[Hier klicken, um die SkinScan-Mask.apk herunterzuladen](https://github.com/cansink5-code/skinscan-mask-peinebbs/releases/latest)** 👈
-> *(Unter "Assets" auf die .apk Datei klicken, herunterladen und auf dem Handy installieren.)*
+> *(Unter "Assets" auf die .apk Datei klicken und installieren.)*
 
-> 🍏 **MÖGLICHKEIT 3: FÜR APPLE iOS (IPA-DATEI)**
-> Die originale iOS-Datei (.ipa) liegt auf der gleichen [Download-Seite](https://github.com/cansink5-code/skinscan-mask-peinebbs/releases/latest) bereit, falls sich jemand die Datei ansehen möchte. 
-> **WICHTIG:** Da Apple extrem streng ist, lässt sich diese Datei aktuell *nicht* einfach so auf dem iPhone installieren oder starten! iPhone-Nutzer müssen bitte den Web-Link (Möglichkeit 1) nutzen.
+> 🍏 **MÖGLICHKEIT 3: APPLE iOS (WICHTIGER HINWEIS)**
+> Aufgrund der strengen und kostenpflichtigen Apple-Richtlinien für Entwickler können wir aktuell leider **keine installierbare .ipa-Datei** bereitstellen. iPhone-Nutzer bitten wir daher, den Web-Link (Möglichkeit 1) zu nutzen! Dieser funktioniert einwandfrei.
+
+---
+
+### 🐛 Bekannter Fehler / Workaround (Navigation)
+**Wichtig für den Test:** Beim allerersten Start der App ist die untere Navigationsleiste (mit Tabs wie z. B. "History") eventuell noch nicht sichtbar. 
+
+**So taucht das Menü auf:**
+1. Klicke auf der Startseite einfach auf *Pflege-Finder*, *Tagebuch* oder *UV-Guide* (auf alles außer den Face-Scanner).
+2. Gehe von dort aus wieder einen Schritt zurück zur Startseite.
+3. Jetzt sind die unteren Tabs vollständig geladen, sichtbar und können normal genutzt werden!
+ 
 
 ---
 

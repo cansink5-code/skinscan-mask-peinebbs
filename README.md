@@ -60,4 +60,4 @@ Konzipiert und programmiert von:
 * **Cansin Can Kurt**
 * **Rabia Kurt**
 
-*Entwickelt an der BBS Peine*
+*Entwickelt für die BBS Peine*

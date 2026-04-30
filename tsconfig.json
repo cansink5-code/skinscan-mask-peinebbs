@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "jsx": "react-native",
+    "moduleResolution": "bundler",
+    "skipLibCheck": true,
+    "target": "esnext",
+    "module": "esnext",
+    "allowJs": true,
+    "esModuleInterop": true,
+    "noEmit": true,
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "paths": {
+      "@/*": [
+        "./*"
+      ]
+    }
+  },
+  "exclude": [
+    "node_modules",
+    ".expo",
+    "export",
+    "metro.config.js",
+    "eslint.config.js",
+    "scripts"
+  ],
+  "extends": "expo/tsconfig.base"
+}

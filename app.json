@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "SkinScan Mask",
+    "slug": "skinscan-mask",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "skinscan-mask",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.elitepro0o0s.skinscanmask",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false,
+        "NSCameraUsageDescription": "Die Kamera wird benötigt, um die Maske per QR-Code zu koppeln."
+      }
+    },
+    "android": {
+      "package": "com.elitepro0o0s.skinscanmask",
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/images/android-icon-foreground.png"
+      },
+      "permissions": [
+        "CAMERA"
+      ],
+      "edgeToEdgeEnabled": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f8d6c33b-44ea-4f80-a6db-185a05542741"
+      }
+    },
+    "owner": "elitepro0o0s-organization",
+    "plugins": [
+  
+    ]
+  }
+}
